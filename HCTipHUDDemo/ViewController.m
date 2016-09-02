@@ -18,7 +18,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 //用法示例1：动画效果
-    [HCTipHUD showInView:self.view withMessage:@"点击屏幕切换无动画效果"];
+    dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(6.0f * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
+        [HCTipHUD showInView:self.view withMessage:@"点击屏幕切换为无动画效果"];
+    });
+    
     
     
 }
