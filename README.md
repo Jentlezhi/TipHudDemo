@@ -8,3 +8,6 @@
  用法示例2：无动画效果
  [HCTipHUD normalShowInView:self.view withMessage:@"弹框无动画效果"];
 ```
+效果演示:
+
+![](TipHudDemo.gif)
