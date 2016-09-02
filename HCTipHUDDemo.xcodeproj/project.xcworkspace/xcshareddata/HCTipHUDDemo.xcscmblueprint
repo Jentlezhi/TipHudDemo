@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4D0A64C02EBEC2A2EB27BF1E2DB3E5C8DBCF462E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "09F3938E37305C96C5DC88DC73B34CA207A0B8D7" : 0,
+    "673ABB8E8A436F4ED8BCD646111C2A9FA0585DC0" : 0,
+    "4D0A64C02EBEC2A2EB27BF1E2DB3E5C8DBCF462E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "44DE9D36-FE27-4078-B5CA-22A3AD036474",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "09F3938E37305C96C5DC88DC73B34CA207A0B8D7" : "TipHud\/",
+    "673ABB8E8A436F4ED8BCD646111C2A9FA0585DC0" : "TipHud\/HCTipHUDDemo\/",
+    "4D0A64C02EBEC2A2EB27BF1E2DB3E5C8DBCF462E" : "TipHudDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HCTipHUDDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HCTipHUDDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Jentlezhi\/TipHud",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "09F3938E37305C96C5DC88DC73B34CA207A0B8D7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Jentlezhi\/TipHudDemo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4D0A64C02EBEC2A2EB27BF1E2DB3E5C8DBCF462E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Jentlezhi\/HCTipHUDDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "673ABB8E8A436F4ED8BCD646111C2A9FA0585DC0"
+    }
+  ]
+}
